@@ -4,8 +4,8 @@
 
 export const supabaseConfig = {
   // Example: https://abcdefghijklm.supabase.co
-  supabaseUrl: "", 
+  supabaseUrl: "sb_publishable_idsLPhFif-3aRl0zZaXyQg_vvWtPN9w", 
   
   // Example: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-  supabaseAnonKey: "" 
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZqamlscG56eXRwcWx4ZHFxZGdhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUwMTc3OTAsImV4cCI6MjExMDU5Mzc5MH0.syla12-xAh1K6oqtLwihvSpsXzcy44Kf4QTzbXLYYQY" 
 };
